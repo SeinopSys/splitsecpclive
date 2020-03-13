@@ -1,0 +1,17 @@
+{
+  "name": "splitsecpclive",
+  "version": "0.0.1",
+  "description": "A sorry attempt at replicating the behavior of the late Split/Second official multiplayer servers",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "SeinopSys <inbox@seinopsys.dev>",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/node": "^13.7.7",
+    "typescript": "^3.8.3"
+  },
+  "private": true
+}
