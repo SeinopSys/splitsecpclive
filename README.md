@@ -10,7 +10,7 @@ The game is using a protocol called PRUDP to try and connect to a server that us
 
 | Bytes | Description |
 | ------ | ----------- |
-| 1-2    | Direction (`3F31` = server to client, `313F` = client to server)
+| 1-2    | Direction (`313f` = server to client, `3f31` = client to server)
 | 3    | Type |
 | 4-14   | Uncharted territory (literally have no idea what's happening here) |
 | 15     | Checksum (likely using a custom algorithm) |
